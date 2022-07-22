@@ -6498,3 +6498,746 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.22-00.43.18:976][344]AssetCheck: New page: Asset Save: multiple assets
 [2022.07.22-00.43.18:976][344]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
 [2022.07.22-00.43.18:976][344]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-00.45.36:450][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.22-00.45.57:386][758]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.22-00.45.57:404][758]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.22-00.45.59:752][ 40]LogContentBrowser: Attempting asset rename: NewFolder -> Traps
+[2022.07.22-00.45.59:752][ 40]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.22-00.46.11:327][412]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.22-00.46.11:333][412]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.22-00.46.11:344][412]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.22-00.46.17:531][155]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Trap
+[2022.07.22-00.46.17:534][155]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.22-00.46.21:038][338]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.47.30:804][240]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C33E1E566D82EB8C0B211F62AE81A7A1C96DC79F), compiling. 
+[2022.07.22-00.47.30:905][240]LogShaderCompilers: Display: Submitted 75 shader compile jobs with 'Low' priority
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 75
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 65
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.07.22-00.47.30:908][240]LogShaderCompilers: Display: Started 75 'Local' shader compile jobs with 'Low' priority
+[2022.07.22-00.47.34:252][465]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.22-00.47.34:252][465]LogShaderCompilers: Display: Total job queries 75, among them cache hits 0 (0.00%)
+[2022.07.22-00.47.34:252][465]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2022.07.22-00.47.34:252][465]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.07.22-00.47.34:252][465]LogShaderCompilers: Display: ================================================
+[2022.07.22-00.47.43:127][ 93]LogContentBrowser: Attempting asset rename: BasicShapeMaterial -> M_Red
+[2022.07.22-00.47.43:180][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/M_Red" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Red.uasset" SILENT=true
+[2022.07.22-00.47.43:185][ 93]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/M_RedA0CD1BC94042C0CC51164D8CAD5C0A35.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Red.uasset'
+[2022.07.22-00.47.43:261][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.07.22-00.47.43:290][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.07.22-00.47.43:308][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.22-00.47.43:351][ 93]AssetCheck: New page: Asset Save: M_Red
+[2022.07.22-00.47.43:351][ 93]LogContentValidation: Display: Validating Material /Game/Blueprints/LevelGameplay/Traps/M_Red.M_Red
+[2022.07.22-00.47.49:706][226]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/LevelGameplay/Traps/M_Red.M_Red
+[2022.07.22-00.47.49:747][226]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: E9C52857BDE52727BB4952BC5278092AC325398F), compiling. 
+[2022.07.22-00.47.49:757][226]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.07.22-00.47.49:855][226]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: B2CF2CF34230B21DCE6B39AFA9BD7933D86C7A9D), compiling. 
+[2022.07.22-00.47.49:857][226]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 819277F43BCB91F7D0811E0369F2C91E83A4E306), compiling. 
+[2022.07.22-00.47.49:869][226]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.07.22-00.47.49:948][227]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.07.22-00.47.50:076][232]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.07.22-00.47.50:076][232]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.47.50:076][232]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.47.50:402][246]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.22-00.47.50:402][246]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.47.50:556][255]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.47.51:234][303]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-00.47.51:234][303]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-00.47.51:234][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-00.47.51:234][303]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-00.47.51:234][303]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.48.35:271][174]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: 2744AA33B403C4E910DF96B7C1DAD2376E22B6BD), compiling. 
+[2022.07.22-00.48.35:273][174]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BF00B11F14DF357D9B43E142FEA238F083A2E2BF), compiling. 
+[2022.07.22-00.48.35:276][174]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C01EB44651F669D508CE820DDCD482D0F5230261), compiling. 
+[2022.07.22-00.48.35:277][174]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: 08CD57F0EAEC78037D10CD2030A02876F8622C5A), compiling. 
+[2022.07.22-00.48.35:279][174]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D0A9FB48A419359D343F6034592EB844117A2F4E), compiling. 
+[2022.07.22-00.48.35:280][174]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: 8A4DBE361C1B63407DD6E7F3CCCB7D0B2908DFFA), compiling. 
+[2022.07.22-00.48.35:282][174]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.22-00.48.35:288][174]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-00.48.35:312][176]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.48.35:329][177]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-00.48.35:329][177]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-00.48.35:329][177]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-00.48.35:329][177]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-00.48.35:329][177]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.48.46:600][321]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: CBBB7B8E6E1B22DE6EEA074459C4680DA514CDBC), compiling. 
+[2022.07.22-00.48.46:602][321]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 27805438D7171B3748AB8B23CF590856B9CD43A4), compiling. 
+[2022.07.22-00.48.46:604][321]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A3A97A88608AFA21111E658BA30462A1B8DD658), compiling. 
+[2022.07.22-00.48.46:606][321]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: 122A01333820B36EFFCFC45970CCCA116F28D722), compiling. 
+[2022.07.22-00.48.46:607][321]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FED72CC85AF96B13124985ECFB0D94C751BA14B9), compiling. 
+[2022.07.22-00.48.46:609][321]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: AEC9E4C7570C8064E0994A8C91D616543CFF269E), compiling. 
+[2022.07.22-00.48.46:610][321]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.22-00.48.46:616][321]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-00.48.46:640][323]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.48.46:657][324]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-00.48.46:657][324]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-00.48.46:657][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-00.48.46:657][324]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-00.48.46:657][324]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.48.50:956][474]LogMaterialEditor: Saving and Compiling material M_Red
+[2022.07.22-00.48.53:199][474]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: 41136EAA1A188E7529931B4349C4B069117EA1B9), compiling. 
+[2022.07.22-00.48.53:235][474]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: EEF5BE2D492ECC1020E7DA5500610CC452E442ED), compiling. 
+[2022.07.22-00.48.53:281][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.22-00.48.53:286][474]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.48.53:613][474]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.07.22-00.48.53:613][474]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.48.53:613][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.22-00.48.53:712][474]LogShaderCompilers: Display: Submitted 62 shader compile jobs with 'Normal' priority
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 38
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.07.22-00.48.53:723][474]LogShaderCompilers: Display: Started 62 'Local' shader compile jobs with 'Normal' priority
+[2022.07.22-00.48.53:743][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/M_Red" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Red.uasset" SILENT=true
+[2022.07.22-00.48.53:749][474]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/M_Red03713BCD4A38243D9A9F498F7DE1B63F.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Red.uasset'
+[2022.07.22-00.48.53:767][474]AssetCheck: New page: Asset Save: M_Red
+[2022.07.22-00.48.53:767][474]LogContentValidation: Display: Validating Material /Game/Blueprints/LevelGameplay/Traps/M_Red.M_Red
+[2022.07.22-00.48.53:776][474]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.48.54:640][519]LogWorld: UWorld::CleanupWorld for World_150, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-00.48.54:640][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.49.11:676][513]LogContentBrowser: Attempting asset rename: M_Red -> M_Trap
+[2022.07.22-00.49.11:730][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/M_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Trap.uasset" SILENT=true
+[2022.07.22-00.49.11:736][513]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/M_Trap23BEA0534B024D56F24D3E825DCE7C29.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Trap.uasset'
+[2022.07.22-00.49.11:808][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.07.22-00.49.11:834][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.07.22-00.49.11:851][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.22-00.49.11:893][513]AssetCheck: New page: Asset Save: M_Trap
+[2022.07.22-00.49.11:894][513]LogContentValidation: Display: Validating Material /Game/Blueprints/LevelGameplay/Traps/M_Trap.M_Trap
+[2022.07.22-00.49.53:667][862]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-00.49.53:698][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.07.22-00.49.54:514][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-00.49.54:522][935]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Trap4A3DCC484901CE7DE7F254A594A4797F.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-00.49.54:534][935]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-00.49.54:534][935]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.50.08:822][359]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/LevelGameplay/Traps/M_Trap.M_Trap
+[2022.07.22-00.50.08:823][359]LogMaterial: Display: Missing cached shadermap for M_Trap in PCD3D_SM5, Default, SM5 (DDC key hash: 0374153CA7BADAF39E888717C6A56FA214FF5961), compiling. 
+[2022.07.22-00.50.08:833][359]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.07.22-00.50.08:905][359]LogMaterial: Display: Missing cached shadermap for M_Trap in PCD3D_SM5, Default, SM5 (DDC key hash: 2AF4753000B14F24FD5F53A264AD62570E8CE127), compiling. 
+[2022.07.22-00.50.08:907][359]LogMaterial: Display: Missing cached shadermap for M_Trap in PCD3D_SM5, Default, SM5 (DDC key hash: 9714EA371107A51F45ED17E95B13BD6B12D63E74), compiling. 
+[2022.07.22-00.50.08:909][359]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CF8FC41BF93EC62FCEDBFC1A07C9272E1FE057A), compiling. 
+[2022.07.22-00.50.08:919][359]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.07.22-00.50.08:976][360]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.07.22-00.50.09:747][405]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.50.10:354][444]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-00.50.10:354][444]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-00.50.10:354][444]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-00.50.10:354][444]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-00.50.10:354][444]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-00.50.10:396][448]LogMaterialEditor: Saving and Compiling material M_Trap
+[2022.07.22-00.50.10:423][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/M_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Trap.uasset" SILENT=true
+[2022.07.22-00.50.10:425][448]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/M_Trap6DB178CB475D44630551C2AEC7F7FFD2.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/M_Trap.uasset'
+[2022.07.22-00.50.10:436][448]AssetCheck: New page: Asset Save: M_Trap
+[2022.07.22-00.50.10:436][448]LogContentValidation: Display: Validating Material /Game/Blueprints/LevelGameplay/Traps/M_Trap.M_Trap
+[2022.07.22-00.50.18:870][214]LogWorld: UWorld::CleanupWorld for World_151, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-00.50.18:870][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.51.19:430][829]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-00.51.19:495][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.07.22-00.51.20:364][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-00.51.20:372][890]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Trap7FCAD2744A542AB0ADC7A4856C81AD42.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-00.51.20:385][890]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-00.51.20:385][890]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.55.29:357][988]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-00.55.29:405][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.07.22-00.55.42:972][735]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-00.55.43:011][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.07.22-00.55.43:635][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-00.55.43:646][790]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_TrapA5449D3D48C71391CE10428E2B599806.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-00.55.43:659][790]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-00.55.43:660][790]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.56.44:893][995]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-00.56.44:931][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.07.22-00.56.45:801][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-00.56.45:811][ 88]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_TrapA591EDCE4A4BD9F3D5AAECB9F0822AC6.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-00.56.45:823][ 88]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-00.56.45:823][ 88]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.57.23:302][216]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-00.57.23:341][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.07.22-00.57.24:135][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-00.57.24:146][300]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Trap45DB8E434AF24C3D158FD8A349F25461.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-00.57.24:158][300]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-00.57.24:159][300]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.57.26:055][511]LogSlate: Window 'BP_Trap' being destroyed
+[2022.07.22-00.57.26:090][511]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-00.57.26:090][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.57.39:614][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-00.57.39:621][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-00.57.39:621][ 14]PIE: New page: PIE session: Map (Jul 21, 2022, 6:57:39 PM)
+[2022.07.22-00.57.39:659][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-00.57.39:669][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009483s)
+[2022.07.22-00.57.39:669][ 14]LogAIModule: Creating AISystem for world Map
+[2022.07.22-00.57.39:670][ 14]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2022.07.22-00.57.39:670][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.010653s)
+[2022.07.22-00.57.39:719][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.07.22-00.57.39:724][ 14]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-00.57.39:724][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-00.57.39:724][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-00.57.39:724][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-00.57.39:724][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-00.57.39:724][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-00.57.39:727][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-00.57.39:727][ 14]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-00.57.39:742][ 14]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-00.57.39:742][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-00.57.39:742][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-00.57.39:742][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-00.57.39:743][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-00.57.39:743][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-00.57.39:743][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-00.57.39:744][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-00.57.39:744][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-00.57.39:744][ 14]LogInit: FAudioDevice initialized.
+[2022.07.22-00.57.39:744][ 14]LogAudio: Display: Audio Device (ID: 62) registered with world 'Map'.
+[2022.07.22-00.57.39:749][ 14]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-00.57.39:750][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-21.57.39
+[2022.07.22-00.57.39:750][ 14]LogWorld: Bringing up level for play took: 0.000884
+[2022.07.22-00.57.39:750][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_213
+[2022.07.22-00.57.39:756][ 14]PIE: Server logged in
+[2022.07.22-00.57.39:756][ 14]PIE: Play in editor total start time 0.137 seconds.
+[2022.07.22-00.57.41:964][275]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-00.57.42:157][298]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-00.57.49:920][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-00.57.49:920][221]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-00.57.49:920][221]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-00.57.49:921][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.57.49:929][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-00.57.49:938][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.57.49:951][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.22-00.57.49:951][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-00.57.49:952][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-00.57.49:954][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-00.57.49:959][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.07.22-00.57.50:012][223]LogPlayLevel: Display: Destroying online subsystem :Context_213
+[2022.07.22-00.57.51:193][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-00.57.51:208][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.07.22-00.57.51:227][361]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map2D5E2114495A2C7DC4D0E6BE33E897C4.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-00.57.51:235][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-00.57.51:303][361]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltDataDFA8F348416B59EA367CCD896710B9A1.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-00.57.51:315][361]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-00.57.51:315][361]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-00.57.51:315][361]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-00.58.20:579][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.22-00.58.21:304][229]LogEditorViewport: Clicking on Actor (LMB): BP_Trap_C (BP_Trap)
+[2022.07.22-00.58.25:064][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.22-00.58.25:899][761]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-00.58.25:906][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-00.58.25:906][761]PIE: New page: PIE session: Map (Jul 21, 2022, 6:58:25 PM)
+[2022.07.22-00.58.25:930][761]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-00.58.25:940][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010330s)
+[2022.07.22-00.58.25:941][761]LogAIModule: Creating AISystem for world Map
+[2022.07.22-00.58.25:942][761]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2022.07.22-00.58.25:942][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.012114s)
+[2022.07.22-00.58.25:962][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.22-00.58.25:967][761]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-00.58.25:967][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-00.58.25:967][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-00.58.25:967][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-00.58.25:967][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-00.58.25:967][761]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-00.58.25:970][761]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-00.58.25:971][761]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-00.58.25:985][761]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-00.58.25:985][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-00.58.25:985][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-00.58.25:985][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-00.58.25:986][761]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-00.58.25:986][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-00.58.25:986][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-00.58.25:987][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-00.58.25:987][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-00.58.25:987][761]LogInit: FAudioDevice initialized.
+[2022.07.22-00.58.25:987][761]LogAudio: Display: Audio Device (ID: 63) registered with world 'Map'.
+[2022.07.22-00.58.25:993][761]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-00.58.25:994][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-21.58.25
+[2022.07.22-00.58.25:995][761]LogWorld: Bringing up level for play took: 0.000990
+[2022.07.22-00.58.25:995][761]LogOnline: OSS: Creating online subsystem instance for: :Context_214
+[2022.07.22-00.58.26:000][761]PIE: Server logged in
+[2022.07.22-00.58.26:001][761]PIE: Play in editor total start time 0.097 seconds.
+[2022.07.22-00.58.27:920][989]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-00.58.28:112][ 12]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-00.58.28:712][ 84]LogBlueprintUserMessages: [BP_HealthComponent] Health: 40.0
+[2022.07.22-00.58.28:904][107]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-00.58.29:537][183]LogBlueprintUserMessages: [BP_HealthComponent] Health: 10.0
+[2022.07.22-00.58.29:537][183]LogBlueprintUserMessages: [BP_HealthComponent] You Are Dead!
+[2022.07.22-00.58.29:730][206]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-00.58.34:920][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-00.58.34:920][824]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-00.58.34:920][824]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-00.58.34:921][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.58.34:929][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-00.58.34:946][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.58.34:960][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.22-00.58.34:960][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-00.58.34:961][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-00.58.34:964][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-00.58.34:967][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.07.22-00.58.35:000][825]LogPlayLevel: Display: Destroying online subsystem :Context_214
+[2022.07.22-00.58.35:943][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-00.58.35:958][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.07.22-00.58.35:978][933]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map0341DD4D48D9125D932E729CBC69CC5A.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-00.58.35:986][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-00.58.36:053][933]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltDataB047D46A46AA0DD35D2A7EB003E8849B.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-00.58.36:065][933]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-00.58.36:065][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-00.58.36:065][933]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-00.58.49:262][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.59.21:336][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-00.59.21:348][290]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Trap99CF24194B0F0B0CA22B5AA6066221F0.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-00.59.21:359][290]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-00.59.21:359][290]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.59.29:056][650]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-00.59.29:093][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.22-00.59.29:703][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-00.59.29:714][710]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Trap17094C6241C6FBAE4F5982ACBD976E99.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-00.59.29:725][710]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-00.59.29:725][710]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-00.59.31:037][857]LogSlate: Window 'BP_Trap' being destroyed
+[2022.07.22-00.59.31:079][857]LogWorld: UWorld::CleanupWorld for World_152, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-00.59.31:079][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.59.32:289][987]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-00.59.32:296][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-00.59.32:296][987]PIE: New page: PIE session: Map (Jul 21, 2022, 6:59:32 PM)
+[2022.07.22-00.59.32:319][987]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-00.59.32:329][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009442s)
+[2022.07.22-00.59.32:330][987]LogAIModule: Creating AISystem for world Map
+[2022.07.22-00.59.32:330][987]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2022.07.22-00.59.32:330][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.010539s)
+[2022.07.22-00.59.32:349][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.07.22-00.59.32:352][987]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-00.59.32:352][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-00.59.32:352][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-00.59.32:352][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-00.59.32:352][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-00.59.32:352][987]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-00.59.32:355][987]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-00.59.32:355][987]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-00.59.32:369][987]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-00.59.32:370][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-00.59.32:370][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-00.59.32:370][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-00.59.32:370][987]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-00.59.32:370][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-00.59.32:370][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-00.59.32:371][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-00.59.32:371][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-00.59.32:371][987]LogInit: FAudioDevice initialized.
+[2022.07.22-00.59.32:371][987]LogAudio: Display: Audio Device (ID: 64) registered with world 'Map'.
+[2022.07.22-00.59.32:384][987]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-00.59.32:385][987]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-21.59.32
+[2022.07.22-00.59.32:385][987]LogWorld: Bringing up level for play took: 0.001058
+[2022.07.22-00.59.32:385][987]LogOnline: OSS: Creating online subsystem instance for: :Context_216
+[2022.07.22-00.59.32:392][987]PIE: Server logged in
+[2022.07.22-00.59.32:392][987]PIE: Play in editor total start time 0.098 seconds.
+[2022.07.22-00.59.36:762][509]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-00.59.36:953][532]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-00.59.38:278][691]LogBlueprintUserMessages: [BP_HealthComponent] Health: 40.0
+[2022.07.22-00.59.38:470][714]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-00.59.39:354][820]LogBlueprintUserMessages: [BP_HealthComponent] Health: 10.0
+[2022.07.22-00.59.39:354][820]LogBlueprintUserMessages: [BP_HealthComponent] You Are Dead!
+[2022.07.22-00.59.39:546][843]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-00.59.41:420][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-00.59.41:420][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-00.59.41:420][ 65]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-00.59.41:421][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.59.41:428][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-00.59.41:446][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-00.59.41:460][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.22-00.59.41:460][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-00.59.41:461][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-00.59.41:463][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-00.59.41:466][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.22-00.59.41:499][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_216
+[2022.07.22-01.00.03:318][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.22-01.00.11:388][234]LogEditorViewport: Clicking on Actor (LMB): BP_Trap_C (BP_Trap)
+[2022.07.22-01.00.15:964][772]Cmd: TRANSACTION UNDO
+[2022.07.22-01.00.15:964][772]LogEditorTransaction: Undo Move Actors
+[2022.07.22-01.00.17:910][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.22-01.00.18:376][ 10]LogEditorViewport: Clicking on Actor (LMB): BP_Trap_C (BP_Trap3)
+[2022.07.22-01.00.34:657][765]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-01.00.34:664][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-01.00.34:664][765]PIE: New page: PIE session: Map (Jul 21, 2022, 7:00:34 PM)
+[2022.07.22-01.00.34:699][765]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.00.34:710][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010560s)
+[2022.07.22-01.00.34:711][765]LogAIModule: Creating AISystem for world Map
+[2022.07.22-01.00.34:711][765]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2022.07.22-01.00.34:711][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.012001s)
+[2022.07.22-01.00.34:731][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.07.22-01.00.34:739][765]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-01.00.34:739][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-01.00.34:739][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-01.00.34:739][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-01.00.34:739][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-01.00.34:739][765]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-01.00.34:742][765]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-01.00.34:742][765]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-01.00.34:756][765]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-01.00.34:757][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-01.00.34:757][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-01.00.34:757][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-01.00.34:757][765]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-01.00.34:757][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-01.00.34:757][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-01.00.34:758][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-01.00.34:758][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-01.00.34:758][765]LogInit: FAudioDevice initialized.
+[2022.07.22-01.00.34:758][765]LogAudio: Display: Audio Device (ID: 65) registered with world 'Map'.
+[2022.07.22-01.00.34:769][765]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-01.00.34:770][765]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-22.00.34
+[2022.07.22-01.00.34:770][765]LogWorld: Bringing up level for play took: 0.001005
+[2022.07.22-01.00.34:771][765]LogOnline: OSS: Creating online subsystem instance for: :Context_217
+[2022.07.22-01.00.34:776][765]PIE: Server logged in
+[2022.07.22-01.00.34:777][765]PIE: Play in editor total start time 0.114 seconds.
+[2022.07.22-01.00.37:832][129]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-01.00.38:024][152]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-01.00.38:224][176]LogBlueprintUserMessages: [BP_HealthComponent] Health: 40.0
+[2022.07.22-01.00.38:415][199]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-01.00.39:208][294]LogBlueprintUserMessages: [BP_HealthComponent] Health: 10.0
+[2022.07.22-01.00.39:208][294]LogBlueprintUserMessages: [BP_HealthComponent] You Are Dead!
+[2022.07.22-01.00.39:401][317]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-01.00.44:230][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.00.44:230][894]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.00.44:231][894]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-01.00.44:231][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.00.44:237][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-01.00.44:245][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.00.44:259][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.22-01.00.44:259][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.00.44:260][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.00.44:262][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.00.44:265][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.07.22-01.00.44:320][896]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2022.07.22-01.00.45:966][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-01.00.45:972][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-01.00.45:972][ 91]PIE: New page: PIE session: Map (Jul 21, 2022, 7:00:45 PM)
+[2022.07.22-01.00.46:000][ 91]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.00.46:009][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009677s)
+[2022.07.22-01.00.46:011][ 91]LogAIModule: Creating AISystem for world Map
+[2022.07.22-01.00.46:011][ 91]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2022.07.22-01.00.46:011][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.011182s)
+[2022.07.22-01.00.46:033][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.07.22-01.00.46:035][ 91]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2022.07.22-01.00.46:035][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-01.00.46:035][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-01.00.46:035][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-01.00.46:035][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-01.00.46:035][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-01.00.46:036][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-01.00.46:036][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-01.00.46:036][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-01.00.46:036][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-01.00.46:036][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-01.00.46:036][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-01.00.46:036][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-01.00.46:039][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-01.00.46:039][ 91]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-01.00.46:053][ 91]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-01.00.46:053][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-01.00.46:053][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-01.00.46:053][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-01.00.46:053][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-01.00.46:053][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-01.00.46:053][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-01.00.46:054][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-01.00.46:055][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-01.00.46:055][ 91]LogInit: FAudioDevice initialized.
+[2022.07.22-01.00.46:055][ 91]LogAudio: Display: Audio Device (ID: 66) registered with world 'Map'.
+[2022.07.22-01.00.46:066][ 91]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-01.00.46:067][ 91]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-22.00.46
+[2022.07.22-01.00.46:067][ 91]LogWorld: Bringing up level for play took: 0.001013
+[2022.07.22-01.00.46:068][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_218
+[2022.07.22-01.00.46:074][ 91]PIE: Server logged in
+[2022.07.22-01.00.46:074][ 91]PIE: Play in editor total start time 0.103 seconds.
+[2022.07.22-01.00.48:387][366]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-01.00.48:578][389]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-01.00.49:744][529]LogBlueprintUserMessages: [BP_HealthComponent] Health: 40.0
+[2022.07.22-01.00.49:936][552]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-01.00.50:804][656]LogBlueprintUserMessages: [BP_HealthComponent] Health: 10.0
+[2022.07.22-01.00.50:804][656]LogBlueprintUserMessages: [BP_HealthComponent] You Are Dead!
+[2022.07.22-01.00.50:996][679]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-01.00.54:330][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.00.54:330][ 76]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.00.54:330][ 76]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-01.00.54:330][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.00.54:341][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-01.00.54:349][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.00.54:363][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.00.54:363][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.00.54:364][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.00.54:370][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.07.22-01.00.54:425][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_218
+[2022.07.22-01.00.55:334][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.22-01.00.56:196][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-01.00.56:211][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.07.22-01.00.56:232][283]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map2F42AA7D4EF04F473C42989BEE6FA6F6.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-01.00.56:240][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-01.00.56:308][283]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltData2B34245C47802CD4FEE501A32782C29A.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-01.00.56:320][283]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-01.00.56:320][283]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-01.00.56:320][283]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-01.01.00:262][402]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-01.01.14:816][379]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-01.01.14:855][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.22-01.01.15:669][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-01.01.15:680][456]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Trap4CDBE17244846BE673FA9396349F3904.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-01.01.15:692][456]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-01.01.15:692][456]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-01.01.20:992][646]LogSlate: Window 'BP_Trap' being destroyed
+[2022.07.22-01.01.21:029][646]LogWorld: UWorld::CleanupWorld for World_153, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-01.01.21:029][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.22:443][796]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-01.01.22:450][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-01.01.22:450][796]PIE: New page: PIE session: Map (Jul 21, 2022, 7:01:22 PM)
+[2022.07.22-01.01.22:479][796]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.01.22:489][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009916s)
+[2022.07.22-01.01.22:490][796]LogAIModule: Creating AISystem for world Map
+[2022.07.22-01.01.22:490][796]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2022.07.22-01.01.22:490][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.011311s)
+[2022.07.22-01.01.22:509][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.07.22-01.01.22:512][796]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2022.07.22-01.01.22:512][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-01.01.22:512][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-01.01.22:512][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-01.01.22:512][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-01.01.22:512][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-01.01.22:513][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-01.01.22:513][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-01.01.22:513][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-01.01.22:513][796]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-01.01.22:513][796]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-01.01.22:513][796]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-01.01.22:513][796]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-01.01.22:516][796]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-01.01.22:516][796]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-01.01.22:530][796]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-01.01.22:530][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-01.01.22:530][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-01.01.22:530][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-01.01.22:531][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-01.01.22:531][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-01.01.22:531][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-01.01.22:532][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-01.01.22:532][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-01.01.22:532][796]LogInit: FAudioDevice initialized.
+[2022.07.22-01.01.22:532][796]LogAudio: Display: Audio Device (ID: 67) registered with world 'Map'.
+[2022.07.22-01.01.22:543][796]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-01.01.22:544][796]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-22.01.22
+[2022.07.22-01.01.22:544][796]LogWorld: Bringing up level for play took: 0.001005
+[2022.07.22-01.01.22:544][796]LogOnline: OSS: Creating online subsystem instance for: :Context_220
+[2022.07.22-01.01.22:550][796]PIE: Server logged in
+[2022.07.22-01.01.22:551][796]PIE: Play in editor total start time 0.103 seconds.
+[2022.07.22-01.01.26:503][268]LogBlueprintUserMessages: [BP_HealthComponent] Health: 90.0
+[2022.07.22-01.01.26:719][294]LogBlueprintUserMessages: [BP_HealthComponent] Health: 80.0
+[2022.07.22-01.01.26:995][327]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-01.01.27:211][353]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-01.01.28:054][454]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-01.01.28:545][513]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-01.01.29:830][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.01.29:830][663]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.01.29:830][663]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-01.01.29:831][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.29:841][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-01.01.29:860][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.29:873][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.01.29:874][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.01.29:874][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.01.29:880][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.07.22-01.01.29:916][664]LogPlayLevel: Display: Destroying online subsystem :Context_220
+[2022.07.22-01.01.30:858][765]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-01.01.30:865][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-01.01.30:865][765]PIE: New page: PIE session: Map (Jul 21, 2022, 7:01:30 PM)
+[2022.07.22-01.01.30:890][765]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.01.30:900][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009828s)
+[2022.07.22-01.01.30:901][765]LogAIModule: Creating AISystem for world Map
+[2022.07.22-01.01.30:901][765]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2022.07.22-01.01.30:901][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.011193s)
+[2022.07.22-01.01.30:920][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.07.22-01.01.30:921][765]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2022.07.22-01.01.30:921][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-01.01.30:921][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-01.01.30:921][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-01.01.30:921][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-01.01.30:921][765]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-01.01.30:921][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-01.01.30:921][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-01.01.30:921][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-01.01.30:922][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-01.01.30:922][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-01.01.30:922][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-01.01.30:922][765]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-01.01.30:925][765]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-01.01.30:925][765]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-01.01.30:939][765]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-01.01.30:940][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-01.01.30:940][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-01.01.30:940][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-01.01.30:940][765]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-01.01.30:940][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-01.01.30:940][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-01.01.30:941][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-01.01.30:941][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-01.01.30:941][765]LogInit: FAudioDevice initialized.
+[2022.07.22-01.01.30:941][765]LogAudio: Display: Audio Device (ID: 68) registered with world 'Map'.
+[2022.07.22-01.01.30:951][765]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-01.01.30:953][765]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-22.01.30
+[2022.07.22-01.01.30:953][765]LogWorld: Bringing up level for play took: 0.001011
+[2022.07.22-01.01.30:953][765]LogOnline: OSS: Creating online subsystem instance for: :Context_221
+[2022.07.22-01.01.30:959][765]PIE: Server logged in
+[2022.07.22-01.01.30:959][765]PIE: Play in editor total start time 0.095 seconds.
+[2022.07.22-01.01.35:324][286]LogBlueprintUserMessages: [BP_HealthComponent] Health: 90.0
+[2022.07.22-01.01.35:816][345]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-01.01.36:707][452]LogBlueprintUserMessages: [BP_HealthComponent] Health: 80.0
+[2022.07.22-01.01.37:199][511]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-01.01.37:899][595]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-01.01.38:390][654]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-01.01.40:350][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.01.40:350][886]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.01.40:350][886]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-01.01.40:351][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.40:360][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-01.01.40:378][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.40:391][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.01.40:392][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.01.40:392][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.01.40:398][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.07.22-01.01.40:433][887]LogPlayLevel: Display: Destroying online subsystem :Context_221
+[2022.07.22-01.01.41:512][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-01.01.46:921][465]BlueprintLog: New page: Compile BP_Trap
+[2022.07.22-01.01.46:959][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.07.22-01.01.47:554][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/Traps/BP_Trap" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset" SILENT=true
+[2022.07.22-01.01.47:565][512]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_TrapB95952EC4CDE2541B9CA78A9CEAA79CF.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Traps/BP_Trap.uasset'
+[2022.07.22-01.01.47:581][512]AssetCheck: New page: Asset Save: BP_Trap
+[2022.07.22-01.01.47:581][512]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Traps/BP_Trap.BP_Trap
+[2022.07.22-01.01.48:945][629]LogSlate: Window 'BP_Trap' being destroyed
+[2022.07.22-01.01.48:979][629]LogWorld: UWorld::CleanupWorld for World_154, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-01.01.48:979][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.49:674][694]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-01.01.49:682][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-01.01.49:682][694]PIE: New page: PIE session: Map (Jul 21, 2022, 7:01:49 PM)
+[2022.07.22-01.01.49:682][694]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.01.49:692][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009323s)
+[2022.07.22-01.01.49:693][694]LogAIModule: Creating AISystem for world Map
+[2022.07.22-01.01.49:693][694]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2022.07.22-01.01.49:693][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.010790s)
+[2022.07.22-01.01.49:714][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.07.22-01.01.49:716][694]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2022.07.22-01.01.49:716][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-01.01.49:716][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-01.01.49:716][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-01.01.49:716][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-01.01.49:716][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-01.01.49:716][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-01.01.49:716][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-01.01.49:716][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-01.01.49:717][694]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-01.01.49:717][694]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-01.01.49:717][694]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-01.01.49:717][694]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-01.01.49:720][694]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-01.01.49:720][694]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-01.01.49:734][694]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-01.01.49:734][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-01.01.49:734][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-01.01.49:734][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-01.01.49:735][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-01.01.49:735][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-01.01.49:735][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-01.01.49:736][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-01.01.49:736][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-01.01.49:736][694]LogInit: FAudioDevice initialized.
+[2022.07.22-01.01.49:736][694]LogAudio: Display: Audio Device (ID: 69) registered with world 'Map'.
+[2022.07.22-01.01.49:744][694]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-01.01.49:745][694]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.21-22.01.49
+[2022.07.22-01.01.49:746][694]LogWorld: Bringing up level for play took: 0.000993
+[2022.07.22-01.01.49:746][694]LogOnline: OSS: Creating online subsystem instance for: :Context_223
+[2022.07.22-01.01.49:751][694]PIE: Server logged in
+[2022.07.22-01.01.49:752][694]PIE: Play in editor total start time 0.072 seconds.
+[2022.07.22-01.01.51:162][861]LogBlueprintUserMessages: [BP_HealthComponent] Health: 90.0
+[2022.07.22-01.01.51:354][884]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-01.01.53:087][ 92]LogBlueprintUserMessages: [BP_HealthComponent] Health: 80.0
+[2022.07.22-01.01.53:279][115]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-01.01.54:025][203]LogBlueprintUserMessages: [BP_HealthComponent] Health: 70.0
+[2022.07.22-01.01.54:217][226]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-01.01.58:570][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.01.58:571][744]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-01.01.58:571][744]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-01.01.58:571][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.58:581][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-01.01.58:599][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-01.01.58:612][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-01.01.58:613][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.01.58:613][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-01.01.58:619][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.07.22-01.01.58:653][745]LogPlayLevel: Display: Destroying online subsystem :Context_223
+[2022.07.22-01.01.59:829][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-01.01.59:844][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.07.22-01.01.59:864][881]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map03DDFC3C4148B2DCCE186E9E110D3107.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-01.01.59:872][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-01.01.59:939][881]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltDataDAB3254A4E09F5C310218F83FD7DD5C5.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-01.01.59:950][881]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-01.01.59:950][881]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-01.01.59:950][881]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-01.02.15:093][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.22-01.02.15:695][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-01.02.15:712][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.07.22-01.02.15:732][ 67]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/MapC6AEB0274F219AEA3733C78BE08BB810.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-01.02.15:740][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-01.02.15:806][ 67]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltDataF5DF72084E4C14AE675D5CB0A5C36147.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-01.02.15:817][ 67]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-01.02.15:817][ 67]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-01.02.15:817][ 67]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
