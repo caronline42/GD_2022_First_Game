@@ -2157,3 +2157,442 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.22-05.38.06:764][426]AssetCheck: New page: Asset Save: multiple assets
 [2022.07.22-05.38.06:764][426]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
 [2022.07.22-05.38.06:764][426]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-05.40.11:551][813]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.22-05.40.11:569][813]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.22-05.40.23:350][784]LogContentBrowser: Attempting asset rename: NewFolder -> Interruptors
+[2022.07.22-05.40.23:351][784]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.22-05.40.30:997][109]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.22-05.40.31:002][109]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.22-05.40.31:013][109]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.22-05.40.43:964][ 17]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Interruptor
+[2022.07.22-05.40.43:968][ 17]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.22-05.40.44:668][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-05.40.48:373][191]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Interruptor3C49DD8B4762582094DE2AB7FD2BE8FC.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-05.40.48:386][191]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-05.40.48:386][191]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-05.41.12:082][556]LogEditorViewport: Clicking on Actor (LMB): BP_PowerUpSpeed_C (BP_PowerUpSpeed)
+[2022.07.22-05.41.17:966][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/PowerUps/BP_PowerUpSpeed.BP_PowerUpSpeed
+[2022.07.22-05.42.48:653][941]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.22-05.42.50:700][136]LogEditorTransaction: Undo Attach Component
+[2022.07.22-05.43.26:023][534]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-05.43.26:023][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-05.43.51:854][210]BlueprintLog: New page: Compile BP_Interruptor
+[2022.07.22-05.43.51:894][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.07.22-05.43.52:770][284]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Interruptor45B6E8E543952FF4518DBB99A7793491.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-05.43.52:781][284]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-05.43.52:781][284]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-05.44.10:518][322]Cmd: DELETE
+[2022.07.22-05.44.10:518][322]Cmd: ACTOR DELETE
+[2022.07.22-05.44.10:522][322]LogEditorActor: Deleted Actor: BP_PowerUpSpeed_C
+[2022.07.22-05.44.10:541][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.07.22-05.44.10:545][322]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.07.22-05.44.12:525][560]Cmd: TRANSACTION UNDO
+[2022.07.22-05.44.12:525][560]LogEditorTransaction: Undo Delete Actors
+[2022.07.22-05.44.20:102][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/PowerUps/BP_PowerUpSpeed.BP_PowerUpSpeed
+[2022.07.22-05.44.30:382][270]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_PowerUpSpeed1042909F4B7B42D6BC00AD8AF0604662.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/PowerUps/BP_PowerUpSpeed.uasset'
+[2022.07.22-05.44.30:393][270]AssetCheck: New page: Asset Save: BP_PowerUpSpeed
+[2022.07.22-05.44.30:393][270]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/PowerUps/BP_PowerUpSpeed.BP_PowerUpSpeed
+[2022.07.22-05.44.31:179][343]BlueprintLog: New page: Compile BP_PowerUpSpeed
+[2022.07.22-05.44.31:229][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.07.22-05.44.31:947][397]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_PowerUpSpeedBB8C516A4D976D1B4C9A75B311A7E0A6.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/PowerUps/BP_PowerUpSpeed.uasset'
+[2022.07.22-05.44.31:960][397]AssetCheck: New page: Asset Save: BP_PowerUpSpeed
+[2022.07.22-05.44.31:960][397]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/PowerUps/BP_PowerUpSpeed.BP_PowerUpSpeed
+[2022.07.22-05.44.36:745][686]LogSlate: Window 'Delete Component' being destroyed
+[2022.07.22-05.45.04:865][560]LogPhysics: Warning: Scale for /Engine/Transient.World_27:PersistentLevel.BP_Interruptor_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.07.22-05.45.04:866][560]LogPhysics: Warning: Scale for /Engine/Transient.World_27:PersistentLevel.BP_Interruptor_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.07.22-05.45.32:049][101]BlueprintLog: New page: Compile BP_Interruptor
+[2022.07.22-05.45.32:090][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.07.22-05.45.32:986][160]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_InterruptorB59AFF5547315E1D381790872C317D34.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-05.45.32:997][160]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-05.45.32:997][160]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-05.45.42:295][189]LogMaterial: Display: Missing cached shadermap for M_PowerUp in PCD3D_SM5, Default, SM5 (DDC key hash: 3B85BA886788E2764A95896E1E47EE9508A883C2), compiling. 
+[2022.07.22-05.45.42:390][189]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.22-05.45.42:390][189]LogShaderCompilers: Display: Total job queries 283, among them cache hits 119 (42.05%)
+[2022.07.22-05.45.42:390][189]LogShaderCompilers: Display: Tracking 152 distinct input hashes that result in 58 distinct outputs (38.16%)
+[2022.07.22-05.45.42:390][189]LogShaderCompilers: Display: RAM used: 0.34 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2022.07.22-05.45.42:390][189]LogShaderCompilers: Display: ================================================
+[2022.07.22-05.45.51:658][383]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/LevelGameplay/Interruptors/M_PowerUp.M_PowerUp
+[2022.07.22-05.45.51:659][383]LogMaterial: Display: Missing cached shadermap for M_PowerUp in PCD3D_SM5, Default, SM5 (DDC key hash: 70E53A18E47FB76383253C7CE438AD8BB259BD96), compiling. 
+[2022.07.22-05.45.51:755][383]LogMaterial: Display: Missing cached shadermap for M_PowerUp in PCD3D_SM5, Default, SM5 (DDC key hash: 48798466FFD388EF55C0BD800A10BBD00DD69DD3), compiling. 
+[2022.07.22-05.45.51:757][383]LogMaterial: Display: Missing cached shadermap for M_PowerUp in PCD3D_SM5, Default, SM5 (DDC key hash: 83F47EEF38EC66476240881DE64D09ED8C4D31E5), compiling. 
+[2022.07.22-05.45.51:758][383]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4612C4A65424F94A57247CBCD7C467D5F7C48F15), compiling. 
+[2022.07.22-05.45.51:770][383]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-05.45.51:856][385]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-05.45.51:856][385]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-05.45.51:856][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-05.45.51:856][385]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-05.45.51:856][385]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.45.56:034][594]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-05.45.56:034][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-05.46.13:253][  4]LogContentBrowser: Attempting asset rename: M_PowerUp -> M_Interruptor
+[2022.07.22-05.46.13:303][  4]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/M_Interruptor5C21B996498403FA67D40C865B61D77C.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/M_Interruptor.uasset'
+[2022.07.22-05.46.13:375][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.07.22-05.46.13:400][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.07.22-05.46.13:417][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.22-05.46.13:463][  4]AssetCheck: New page: Asset Save: M_Interruptor
+[2022.07.22-05.46.13:463][  4]LogContentValidation: Display: Validating Material /Game/Blueprints/LevelGameplay/Interruptors/M_Interruptor.M_Interruptor
+[2022.07.22-05.46.15:637][259]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/LevelGameplay/Interruptors/M_Interruptor.M_Interruptor
+[2022.07.22-05.46.15:638][259]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: A1D8FB9901D12EEA4693CA100492517CB35141EF), compiling. 
+[2022.07.22-05.46.15:647][259]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.07.22-05.46.15:720][259]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: 0ED33E3CD89BD75735011D05913B5DBFE4418378), compiling. 
+[2022.07.22-05.46.15:722][259]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: 85D101CB56ED937DB5C2E36C25086720FE34E00E), compiling. 
+[2022.07.22-05.46.15:724][259]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 96A53DF9C50E51EE9A2336483319DBB5CB93FC79), compiling. 
+[2022.07.22-05.46.15:734][259]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.07.22-05.46.15:808][260]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.07.22-05.46.16:564][301]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.46.17:120][336]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-05.46.17:120][336]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-05.46.17:120][336]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-05.46.17:120][336]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-05.46.17:120][336]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.46.40:213][582]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: F741161AE93EEEBA2FCC7AA1B068706E25613E2C), compiling. 
+[2022.07.22-05.46.40:214][582]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 92CF17FC33312F77E53DFE8D0B16F5AD20DE16CA), compiling. 
+[2022.07.22-05.46.40:217][582]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B5B554B3CC05767706D27AE74D7EBEFD4E8C11DE), compiling. 
+[2022.07.22-05.46.40:218][582]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: AE80177893A9EDF24CE5E732741D52BBC58F48D1), compiling. 
+[2022.07.22-05.46.40:220][582]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E702C579F52C606434F82C17E83FF21054A10358), compiling. 
+[2022.07.22-05.46.40:222][582]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: F9483B56BE62A54B10855EF277FE1EF1257F3591), compiling. 
+[2022.07.22-05.46.40:223][582]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.22-05.46.40:229][582]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-05.46.40:252][584]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.46.40:271][585]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-05.46.40:271][585]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-05.46.40:271][585]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-05.46.40:271][585]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-05.46.40:271][585]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.47.21:096][568]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: 13FB9926B6517870EDFE447069DCF9457F210624), compiling. 
+[2022.07.22-05.47.21:098][568]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B240662DD379FE0E317EE909BE712DCB5D79F540), compiling. 
+[2022.07.22-05.47.21:100][568]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C58F3D22BFF48C52D04D23C6A714FA21F4E47BE), compiling. 
+[2022.07.22-05.47.21:102][568]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: A6D02A3F0FE065EC503E893597AA9D0F8CE3348E), compiling. 
+[2022.07.22-05.47.21:104][568]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D3E69B4766B14AD5D99B9C062BF0BF4076D03FD), compiling. 
+[2022.07.22-05.47.21:105][568]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: BAA9535ED66A9A0D25C6A33A8692C32ED447F8FD), compiling. 
+[2022.07.22-05.47.21:106][568]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.22-05.47.21:112][568]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.22-05.47.21:138][570]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.47.21:158][571]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.07.22-05.47.21:158][571]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.07.22-05.47.21:158][571]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.07.22-05.47.21:158][571]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.22-05.47.21:158][571]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.47.30:420][719]LogMaterialEditor: Saving and Compiling material M_Interruptor
+[2022.07.22-05.47.30:770][719]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: 70129AC06FABCF8903430B932B9C8CA758B7FE8E), compiling. 
+[2022.07.22-05.47.30:794][719]LogMaterial: Display: Missing cached shadermap for M_Interruptor in PCD3D_SM5, Default, SM5 (DDC key hash: 759367661120BDB27232D75EE1465145E54861B6), compiling. 
+[2022.07.22-05.47.30:836][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.07.22-05.47.30:840][719]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.07.22-05.47.31:166][719]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.07.22-05.47.31:166][719]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.22-05.47.31:166][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.22-05.47.31:261][719]LogShaderCompilers: Display: Submitted 62 shader compile jobs with 'Normal' priority
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 38
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.07.22-05.47.31:271][719]LogShaderCompilers: Display: Started 62 'Local' shader compile jobs with 'Normal' priority
+[2022.07.22-05.47.31:298][719]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/M_Interruptor1B82463A4463FE8344BD20909F931BD6.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/M_Interruptor.uasset'
+[2022.07.22-05.47.31:315][719]AssetCheck: New page: Asset Save: M_Interruptor
+[2022.07.22-05.47.31:315][719]LogContentValidation: Display: Validating Material /Game/Blueprints/LevelGameplay/Interruptors/M_Interruptor.M_Interruptor
+[2022.07.22-05.47.31:325][719]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.22-05.47.32:672][781]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-05.47.32:673][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-05.50.36:593][561]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-05.50.36:593][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-05.51.43:766][980]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_InterruptorCEADE329456154F0867851B23B753844.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-05.51.43:779][980]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-05.51.43:779][980]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-05.51.44:684][ 64]BlueprintLog: New page: Compile BP_Interruptor
+[2022.07.22-05.51.44:722][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.07.22-05.51.45:259][117]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Interruptor1587AA3F4403DDD77DEC8CB347C19D6D.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-05.51.45:270][117]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-05.51.45:270][117]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-05.53.48:293][876]LogEditorTransaction: Undo Move Node
+[2022.07.22-05.55.38:554][687]LogEditorTransaction: Undo Set Scale
+[2022.07.22-05.55.43:433][107]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.22-05.58.43:360][135]BlueprintLog: New page: Compile BP_Interruptor
+[2022.07.22-05.58.43:400][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.07.22-05.58.44:232][203]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_InterruptorC5A50B9649441D9C32BEADAF710AC4B8.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-05.58.44:243][203]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-05.58.44:244][203]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-06.00.30:449][274]BlueprintLog: New page: Compile BP_Interruptor
+[2022.07.22-06.00.30:484][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.07.22-06.00.31:334][335]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Interruptor0656EF6F4BD82EAA6414559280E7A80C.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-06.00.31:346][335]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-06.00.31:346][335]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-06.02.00:052][360]BlueprintLog: New page: Compile BP_Interruptor
+[2022.07.22-06.02.00:088][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.07.22-06.02.00:854][432]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_Interruptor4583D60547AEF026CD1126AAA608488D.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.uasset'
+[2022.07.22-06.02.00:870][432]AssetCheck: New page: Asset Save: BP_Interruptor
+[2022.07.22-06.02.00:870][432]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/Interruptors/BP_Interruptor.BP_Interruptor
+[2022.07.22-06.02.18:088][529]LogSlate: Window 'BP_Interruptor' being destroyed
+[2022.07.22-06.02.18:097][529]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.22-06.02.18:097][529]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-06.02.18:098][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.02.20:260][764]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-06.02.20:267][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-06.02.20:267][764]PIE: New page: PIE session: Map (Jul 22, 2022, 12:02:20 AM)
+[2022.07.22-06.02.20:292][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-06.02.20:303][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011126s)
+[2022.07.22-06.02.20:304][764]LogAIModule: Creating AISystem for world Map
+[2022.07.22-06.02.20:304][764]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2022.07.22-06.02.20:304][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.012699s)
+[2022.07.22-06.02.20:325][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.07.22-06.02.20:327][764]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.07.22-06.02.20:327][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-06.02.20:327][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-06.02.20:327][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-06.02.20:327][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-06.02.20:327][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-06.02.20:327][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-06.02.20:327][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-06.02.20:327][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-06.02.20:328][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-06.02.20:328][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-06.02.20:328][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-06.02.20:328][764]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-06.02.20:331][764]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-06.02.20:331][764]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-06.02.20:345][764]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-06.02.20:346][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-06.02.20:346][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-06.02.20:346][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-06.02.20:346][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-06.02.20:346][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-06.02.20:346][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-06.02.20:347][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-06.02.20:347][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-06.02.20:347][764]LogInit: FAudioDevice initialized.
+[2022.07.22-06.02.20:347][764]LogAudio: Display: Audio Device (ID: 15) registered with world 'Map'.
+[2022.07.22-06.02.20:358][764]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-06.02.20:359][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.22-03.02.20
+[2022.07.22-06.02.20:360][764]LogWorld: Bringing up level for play took: 0.001358
+[2022.07.22-06.02.20:360][764]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.07.22-06.02.20:366][764]PIE: Server logged in
+[2022.07.22-06.02.20:367][764]PIE: Play in editor total start time 0.101 seconds.
+[2022.07.22-06.02.25:023][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-06.02.25:023][314]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-06.02.25:023][314]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-06.02.25:024][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.02.25:029][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-06.02.25:038][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.02.25:052][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.22-06.02.25:052][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-06.02.25:053][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-06.02.25:055][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-06.02.25:059][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.07.22-06.02.25:119][316]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.07.22-06.02.30:526][922]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-06.02.30:533][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-06.02.30:533][922]PIE: New page: PIE session: Map (Jul 22, 2022, 12:02:30 AM)
+[2022.07.22-06.02.30:533][922]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-06.02.30:546][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012467s)
+[2022.07.22-06.02.30:547][922]LogAIModule: Creating AISystem for world Map
+[2022.07.22-06.02.30:547][922]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2022.07.22-06.02.30:547][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.013900s)
+[2022.07.22-06.02.30:570][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.07.22-06.02.30:573][922]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-06.02.30:573][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-06.02.30:573][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-06.02.30:573][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-06.02.30:573][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-06.02.30:573][922]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-06.02.30:576][922]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-06.02.30:576][922]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-06.02.30:590][922]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-06.02.30:591][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-06.02.30:591][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-06.02.30:591][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-06.02.30:591][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-06.02.30:591][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-06.02.30:591][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-06.02.30:592][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-06.02.30:592][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-06.02.30:592][922]LogInit: FAudioDevice initialized.
+[2022.07.22-06.02.30:592][922]LogAudio: Display: Audio Device (ID: 16) registered with world 'Map'.
+[2022.07.22-06.02.30:597][922]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-06.02.30:599][922]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.22-03.02.30
+[2022.07.22-06.02.30:599][922]LogWorld: Bringing up level for play took: 0.001445
+[2022.07.22-06.02.30:599][922]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.07.22-06.02.30:605][922]PIE: Server logged in
+[2022.07.22-06.02.30:606][922]PIE: Play in editor total start time 0.074 seconds.
+[2022.07.22-06.02.33:576][274]LogBlueprintUserMessages: [BP_HealthComponent] Health: 90.0
+[2022.07.22-06.02.33:768][297]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-06.02.35:743][534]LogBlueprintUserMessages: [BP_HealthComponent] Health: 60.0
+[2022.07.22-06.02.35:818][543]LogBlueprintUserMessages: [BP_HealthComponent] Health: 50.0
+[2022.07.22-06.02.35:935][557]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-06.02.36:010][566]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-06.02.46:333][803]LogBlueprintUserMessages: [BP_HealthComponent] Health: 30.0
+[2022.07.22-06.02.47:749][973]LogBlueprintUserMessages: [BP_BasicCollider_2] Box Begin OverlapBP_PlayerCharacter
+[2022.07.22-06.02.51:233][391]LogBlueprintUserMessages: [BP_BasicCollider_2] Box End OverlapBP_PlayerCharacter
+[2022.07.22-06.02.52:233][511]LogBlueprintUserMessages: [BP_BasicCollider_2] Box Begin OverlapBP_PlayerCharacter
+[2022.07.22-06.02.52:391][530]LogBlueprintUserMessages: [BP_BasicCollider_2] Box End OverlapBP_PlayerCharacter
+[2022.07.22-06.03.14:293][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-06.03.14:293][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-06.03.14:293][154]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-06.03.14:293][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.03.14:298][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-06.03.14:307][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.03.14:321][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.22-06.03.14:321][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-06.03.14:322][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-06.03.14:324][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-06.03.14:327][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.07.22-06.03.14:360][155]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.07.22-06.03.15:630][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-06.03.15:645][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.07.22-06.03.15:669][302]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map065B15794E0845FBDE7FADAC7F6AC694.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-06.03.15:679][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-06.03.15:745][302]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltDataEEABA9C847D5ACC0A496958712FC6502.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-06.03.15:758][302]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-06.03.15:758][302]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-06.03.15:758][302]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-06.03.46:830][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/BP_GhostPlattform.BP_GhostPlattform
+[2022.07.22-06.07.42:883][605]BlueprintLog: New page: Compile BP_GhostPlattform
+[2022.07.22-06.07.42:887][605]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Desactivated
+[2022.07.22-06.07.42:887][605]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Activated
+[2022.07.22-06.07.42:923][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.07.22-06.09.09:607][602]BlueprintLog: New page: Compile BP_GhostPlattform
+[2022.07.22-06.09.09:610][602]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Desactivated
+[2022.07.22-06.09.09:610][602]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Activated
+[2022.07.22-06.09.09:642][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.07.22-06.10.09:264][930]BlueprintLog: New page: Compile BP_GhostPlattform
+[2022.07.22-06.10.09:268][930]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Desactivated
+[2022.07.22-06.10.09:268][930]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Activated
+[2022.07.22-06.10.09:297][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.07.22-06.10.10:593][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/BP_GhostPlattform" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset" SILENT=true
+[2022.07.22-06.10.10:611][ 46]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_GhostPlattform8324166C44FECC22745E9B9068E7CFB5.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset'
+[2022.07.22-06.10.10:621][ 46]AssetCheck: New page: Asset Save: BP_GhostPlattform
+[2022.07.22-06.10.10:622][ 46]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/BP_GhostPlattform.BP_GhostPlattform
+[2022.07.22-06.10.45:782][589]BlueprintLog: New page: Compile BP_GhostPlattform
+[2022.07.22-06.10.45:785][589]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Desactivated
+[2022.07.22-06.10.45:785][589]LogBlueprint: Error: [AssetLog] D:\Repos\GD_2022_First_Game\First_Game\Content\Blueprints\LevelGameplay\BP_GhostPlattform.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Interruptor Activated
+[2022.07.22-06.10.45:814][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.07.22-06.14.29:850][529]BlueprintLog: New page: Compile BP_GhostPlattform
+[2022.07.22-06.14.29:885][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.22-06.14.30:627][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/BP_GhostPlattform" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset" SILENT=true
+[2022.07.22-06.14.30:647][587]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_GhostPlattformDD1EF1BB4E7B25D470A9FD928BD810C0.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset'
+[2022.07.22-06.14.30:659][587]AssetCheck: New page: Asset Save: BP_GhostPlattform
+[2022.07.22-06.14.30:659][587]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/BP_GhostPlattform.BP_GhostPlattform
+[2022.07.22-06.14.32:445][737]LogSlate: Window 'BP_GhostPlattform' being destroyed
+[2022.07.22-06.14.32:453][737]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-06.14.32:453][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.14.35:970][877]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelGameplay/BP_GhostPlattform.BP_GhostPlattform
+[2022.07.22-06.14.56:563][769]BlueprintLog: New page: Compile BP_GhostPlattform
+[2022.07.22-06.14.56:614][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.07.22-06.14.57:379][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/BP_GhostPlattform" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset" SILENT=true
+[2022.07.22-06.14.57:399][818]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_GhostPlattform65FEEBB54C2514ED2058F88AE64F4A78.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset'
+[2022.07.22-06.14.57:411][818]AssetCheck: New page: Asset Save: BP_GhostPlattform
+[2022.07.22-06.14.57:411][818]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/BP_GhostPlattform.BP_GhostPlattform
+[2022.07.22-06.15.21:241][802]BlueprintLog: New page: Compile BP_GhostPlattform
+[2022.07.22-06.15.21:278][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.22-06.15.21:794][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LevelGameplay/BP_GhostPlattform" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset" SILENT=true
+[2022.07.22-06.15.21:815][836]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/BP_GhostPlattform9D12094442D26DA1A58D778E1D491C20.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Blueprints/LevelGameplay/BP_GhostPlattform.uasset'
+[2022.07.22-06.15.21:826][836]AssetCheck: New page: Asset Save: BP_GhostPlattform
+[2022.07.22-06.15.21:826][836]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelGameplay/BP_GhostPlattform.BP_GhostPlattform
+[2022.07.22-06.15.24:402][ 38]LogSlate: Window 'BP_GhostPlattform' being destroyed
+[2022.07.22-06.15.24:441][ 38]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-06.15.24:441][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.15.35:934][217]LogEditorViewport: Clicking on Actor (LMB): BP_GhostPlattform_C (BP_GhostPlattform)
+[2022.07.22-06.15.36:691][302]LogEditorViewport: Clicking on Actor (LMB): BP_GhostPlattform_C (BP_GhostPlattform)
+[2022.07.22-06.16.12:118][454]LogEditorViewport: Clicking on Actor (LMB): BP_Interruptor_C (BP_Interruptor)
+[2022.07.22-06.16.24:104][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-06.16.24:123][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.07.22-06.16.24:152][842]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map8FF894124099668EF52B5FB5BD1A7B5C.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-06.16.24:161][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-06.16.24:230][842]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltData1AF308DA4CFF11967FC55295C818FDBD.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-06.16.24:245][842]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-06.16.24:245][842]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-06.16.24:245][842]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-06.16.41:166][165]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.22-06.16.41:174][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.22-06.16.41:174][165]PIE: New page: PIE session: Map (Jul 22, 2022, 12:16:41 AM)
+[2022.07.22-06.16.41:174][165]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.07.22-06.16.41:185][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011102s)
+[2022.07.22-06.16.41:186][165]LogAIModule: Creating AISystem for world Map
+[2022.07.22-06.16.41:186][165]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2022.07.22-06.16.41:186][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.012244s)
+[2022.07.22-06.16.41:206][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.07.22-06.16.41:208][165]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.07.22-06.16.41:208][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.22-06.16.41:208][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.22-06.16.41:208][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.22-06.16.41:208][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.22-06.16.41:208][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.22-06.16.41:208][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.22-06.16.41:208][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.22-06.16.41:208][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.22-06.16.41:209][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.22-06.16.41:209][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.22-06.16.41:209][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.22-06.16.41:209][165]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.22-06.16.41:213][165]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.22-06.16.41:213][165]LogAudioMixer: Display: 1: FrontRight
+[2022.07.22-06.16.41:229][165]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.07.22-06.16.41:229][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.22-06.16.41:229][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.22-06.16.41:229][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.22-06.16.41:229][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.22-06.16.41:230][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.22-06.16.41:230][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.22-06.16.41:230][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.22-06.16.41:230][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.22-06.16.41:230][165]LogInit: FAudioDevice initialized.
+[2022.07.22-06.16.41:230][165]LogAudio: Display: Audio Device (ID: 17) registered with world 'Map'.
+[2022.07.22-06.16.41:239][165]LogLoad: Game class is 'BP_BasicGameMod_C'
+[2022.07.22-06.16.41:241][165]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.07.22-03.16.41
+[2022.07.22-06.16.41:241][165]LogWorld: Bringing up level for play took: 0.001423
+[2022.07.22-06.16.41:241][165]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.07.22-06.16.41:247][165]PIE: Server logged in
+[2022.07.22-06.16.41:248][165]PIE: Play in editor total start time 0.075 seconds.
+[2022.07.22-06.17.06:675][210]LogBlueprintUserMessages: [BP_HealthComponent] Health: 90.0
+[2022.07.22-06.17.06:766][221]LogBlueprintUserMessages: [BP_HealthComponent] Health: 80.0
+[2022.07.22-06.17.06:866][233]LogBlueprintUserMessages: [BP_Trap_2] Its a Trap!
+[2022.07.22-06.17.06:958][244]LogBlueprintUserMessages: [BP_Trap2] Its a Trap!
+[2022.07.22-06.17.07:634][325]LogBlueprintUserMessages: [BP_HealthComponent] Health: 50.0
+[2022.07.22-06.17.07:825][348]LogBlueprintUserMessages: [BP_Trap3] Its a Trap!
+[2022.07.22-06.17.17:092][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-06.17.17:092][455]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.07.22-06.17.17:092][455]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.07.22-06.17.17:092][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.17.17:102][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.22-06.17.17:111][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.22-06.17.17:125][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.22-06.17.17:125][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-06.17.17:126][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.22-06.17.17:128][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.22-06.17.17:132][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.07.22-06.17.17:165][456]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.07.22-06.17.18:421][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-06.17.18:436][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.07.22-06.17.18:461][601]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/MapF1EEE28A41E3B01F50EE61A7C6A1F24A.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-06.17.18:470][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-06.17.18:537][601]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltDataFFB03CB144574D66F9AEDA8D94950FCE.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-06.17.18:550][601]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-06.17.18:550][601]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-06.17.18:550][601]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2022.07.22-06.18.46:606][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.22-06.18.46:619][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.22-06.18.46:645][941]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/MapAE156B054DFAA8389DA3039E7C803BB8.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map.umap'
+[2022.07.22-06.18.46:653][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2022.07.22-06.18.46:721][941]LogSavePackage: Moving 'D:/Repos/GD_2022_First_Game/First_Game/Saved/Map_BuiltDataA7BC68414935CCA27BFD6484DA829A01.tmp' to 'D:/Repos/GD_2022_First_Game/First_Game/Content/Maps/Map_BuiltData.uasset'
+[2022.07.22-06.18.46:735][941]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.22-06.18.46:735][941]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2022.07.22-06.18.46:735][941]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
